@@ -1,0 +1,14 @@
+{
+  "name": "marin",
+  "version": "3.1.2",
+  "description": "Eh, I'm too lazy to add an description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wlux",
+  "license": "ISC - PFUD",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
